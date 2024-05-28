@@ -2,8 +2,6 @@
 facebook cracker
 
 ```
-pkg update
-pkg install git
 rm -rf SFC
 git clone https://github.com/FajarKyy/SFC
 cd SFC
