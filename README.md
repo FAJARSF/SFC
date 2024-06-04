@@ -3,7 +3,7 @@ facebook cracker
 
 ```
 rm -rf SFC
-git clone https://github.com/FajarKyy/SFC
+git clone https://github.com/FAJARSF/SFC
 cd SFC
 python3 Run.py
 ```
